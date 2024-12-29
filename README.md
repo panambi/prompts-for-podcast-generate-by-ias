@@ -29,9 +29,7 @@ Desenvolver um podcast utilizando IA em todas as etapas do processo criativo:
 ---
 
 ## **📚 Materiais**  
-- [🎥 Link da live no YouTube](#)  
-- [📋 Template no Notion](#)  
-- [🎛️ Editor de Áudio](#)  
+- [📋 Template no Notion](https://industrious-character-ab1.notion.site/15a4ed32dc1781c28075ff1aac89c90a?v=15a4ed32dc178144b3d1000cb76d3952)  
 
 ---
 
