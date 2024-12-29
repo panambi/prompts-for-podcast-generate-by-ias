@@ -1,12 +1,9 @@
-Segue uma versão adaptada e personalizada do conteúdo para o seu GitHub do projeto:  
-
----
-
 # **Projeto Podcast Gerado por I.A.s**  
 ✨ *Uma jornada criativa automatizada com inteligência artificial*  
 
 ## **ℹ️ Sobre o Projeto**  
-Este repositório documenta o desenvolvimento de um podcast utilizando ferramentas de inteligência artificial. Foi criado durante uma live no YouTube em parceria com a DIO, com o objetivo de explorar a automação criativa através de uma esteira de prompts bem estruturada.  
+Este repositório documenta o desenvolvimento de um podcast utilizando ferramentas de inteligência artificial. Um desafio "
+Criando um Podcast com IAs Generativas" criado durante a aula CAIXA - IA Generativa com Microsoft Copilot na DIO, com o objetivo de explorar a automação criativa através de uma esteira de prompts bem estruturada.  
 
 ## **🎯 Objetivo**  
 Desenvolver um podcast utilizando IA em todas as etapas do processo criativo:  
@@ -40,16 +37,16 @@ Desenvolver um podcast utilizando IA em todas as etapas do processo criativo:
 
 ## **🛠️ Instruções de Execução**  
 1. **Criação do Roteiro:**  
-   Use os prompts disponíveis no Notion para gerar roteiros detalhados no ChatGPT.  
+   Usando os prompts organizados no Notion para gerar roteiros detalhados no ChatGPT.  
 
 2. **Geração de Áudio:**  
-   Insira os roteiros gerados na ElevenLabs para criar narrações profissionais.  
+   Inserindo os roteiros gerados na ElevenLabs para criar narrações profissionais.  
 
 3. **Criação de Artes:**  
-   Utilize prompts criativos no Leonardo AI para gerar capas impactantes.  
+   Utilizando prompts criativos no Leonardo AI para gerar capas impactantes.  
 
 4. **Edição Final:**  
-   Edite o áudio e adicione sons de fundo no Capcut para finalizar o episódio.  
+   Editando o áudio e adicionando sons de fundo no Capcut para finalizar o episódio.  
 
 ---
 
@@ -69,15 +66,15 @@ Desenvolver um podcast utilizando IA em todas as etapas do processo criativo:
 
 ---
 
-## **💡 Contato**  
-&nbsp;&nbsp;&nbsp;Adriana Panambi  
-&nbsp;&nbsp;&nbsp;  
-<a href="https://github.com/panambi">GitHub</a>  
-&nbsp;|&nbsp;  
-<a href="www.linkedin.com/in/panambi">LinkedIn</a>  
-&nbsp;|&nbsp;  
-<a href="https://www.instagram.com/narubapanambi/">Instagram</a>  
+## 💡 **Entre em Contato**  
+
+**Adriana Panambi**  
+- 💻 [**GitHub**](https://github.com/panambi)  
+- 🌐 [**LinkedIn**](https://www.linkedin.com/in/panambi)  
+- 📸 [**Instagram**](https://www.instagram.com/narubapanambi/)  
+
+*Sinta-se à vontade para explorar meus projetos e se conectar!*  
 
 ---
 
-⌨️ com 💜 por Adriana Panambi  
+⌨️ com muito suor e 💜 por Adriana Panambi  
